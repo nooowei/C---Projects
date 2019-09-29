@@ -5,4 +5,6 @@ playingCards.c is a program that contains a simple card game runs in command lin
 
 buildPatio.c is a program that helps user determine the cost and material needed to build a patio.
 
+Use GNU to compile and run each program.
+
 Specifications for each program and their functions can be found within the file.
